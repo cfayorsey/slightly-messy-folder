@@ -1,0 +1,23 @@
+## Summary
+
+Organized the repository into separate folders for scripts and skills.
+
+### Scripts
+- Video tools
+- Transcript tools
+
+### Skills
+- News memo generation
+- Poll graphic generation
+- Radio ad generation
+
+## Changes Made
+
+- Added a clear folder structure
+- Renamed files for consistency and readability
+- Added repository documentation
+- Improved discoverability for future contributors
+
+## Why
+
+The original repository mixed scripts and skill files together, making it difficult to understand and maintain. The new structure separates concerns and provides clear guidance for future additions.
